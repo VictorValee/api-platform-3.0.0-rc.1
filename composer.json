@@ -1,0 +1,5 @@
+{
+    "require": {
+        "gedmo/doctrine-extensions": "^3.8"
+    }
+}
